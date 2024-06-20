@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NunavDesignSystem",
-            url: "https://www.github.com/Graphmasters/nunav-ios-design-system-distribution/releases/download/1.0.14/NunavDesignSystem.xcframework.zip",
-            checksum: "902e9560c9594414c098eae721c614e3b4bb55a0e4c72fd46c62f340667cbef1"
+            url: "https://www.github.com/Graphmasters/nunav-ios-design-system-distribution/releases/download/1.0.15/NunavDesignSystem.xcframework.zip",
+            checksum: "197e2914c231911ec8cac26ca8943181c7c109da5cb32547ef7ffd5c22e77e08"
         )
     ]
 )
