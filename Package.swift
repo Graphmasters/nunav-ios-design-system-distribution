@@ -1,5 +1,4 @@
 // swift-tools-version: 5.7
-// The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
@@ -13,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NunavDesignSystem",
-            url: "https://www.github.com/Graphmasters/nunav-ios-design-system-distribution/releases/download/1.0.17/NunavDesignSystem.xcframework.zip",
-            checksum: "21cbc1f32030efee32c006b8154a809aeea07f54080f333539b76dce725f3732"
+            url: "https://www.github.com/Graphmasters/nunav-ios-design-system-distribution/releases/download/1.0.24/NunavDesignSystem.xcframework.zip",
+            checksum: "1761bd205e500f85ccc8c6fb4e60189e0fe27d8ab6f14a7a6147fb2046a7a6b7"
         )
     ]
 )
